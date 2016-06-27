@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="70" height="15" tilewidth="35" tileheight="35" backgroundcolor="#353535" nextobjectid="1">
+ <tileset firstgid="1" name="newstage" tilewidth="70" tileheight="70" spacing="2" margin="2">
+  <image source="tileset.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoA1MobTGgrhgFgx3A0okZlDaH0oMh3Uyhk55RQBigpxNHNJoe6aaThmaPAtIArnxGKJ3QI90shtIdVDJvtEyhP0BPJ6OAOgBbWqYkfVMjbyylQC+h8gVm9mgeHvzgCAGaHL3oYBYBmly3keN2ADa/G4o=
+  </data>
+ </layer>
+ <layer name="walkable" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztlDEOgCAMRbkTs5v3Ei9g0NWY6E1dOjUUsBAs2re8QagNv6kxSohBoCXUVBQlzfF2AwxG5BpIewdp/eQygR3hOXL3BO/gq7AXaj44c9Mqj15z/zs95ebBK3hD3/F+tUQdi87V3MeOMJee8gnh00eyaP0ONWcixkL4i4QyfJqry3RJjdx7eH9gc/8Tg5qXG+l+JYQ=
+  </data>
+ </layer>
+ <layer name="Ladder" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAPgYQaAAB
+  </data>
+ </layer>
+ <layer name="Enemy" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt1IEJACAIRUH3n6jx2iDIQCXuJhDk/QjgV6v7AI5e/uO30OumwYpebQLMlekz27QtYIoNcgsGeQ==
+  </data>
+ </layer>
+ <layer name="Trigger" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7D5t4Q5DOwnJK2CJgAAfDTXAQAoFueEALw=
+  </data>
+ </layer>
+ <layer name="Coins" width="70" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFowAB1g20AwYJGA2H4QdwxSk5cT2aPkYBPjCaPkbDgJZgqIbtUHX3SATr0DAl5tADjKatUTAKBicAABBhCjM=
+  </data>
+ </layer>
+</map>
